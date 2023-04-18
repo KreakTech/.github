@@ -31,3 +31,4 @@ Coming Soon
 Backend - Spring Boot<br>
 Frontend - Codename One<br>
 Database - MariaDB<br>
+Event Handler - RabbitMQ<br>
