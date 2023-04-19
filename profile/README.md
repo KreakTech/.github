@@ -6,7 +6,7 @@ To start off,<br>
 The team members and their correspodnign roles are as follows:
 
 
-Alhassan Raad Jassim Al-badri ([@alhassanbilkent](https://github.com/alhassanbilkent)) - Backend / Documentation / CI/CD <br>
+Alhassan Raad Jassim Al-badri ([@alhassanbilkent](https://github.com/alhassanbilkent)) - Backend / Documentation / CI-CD <br>
 Berke Kuzey Ardıç ([@kuzeyardic](https://github.com/kuzeyardic))<br>
 Egehan Yıldız ([@egehanyildiz](https://github.com/egehanyildiz))<br>
 Kürşat Alyamaç ([kursatalyamac](https://github.com/kursatalyamac))<br>
