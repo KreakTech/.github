@@ -3,7 +3,7 @@
 Welcome to KreakTech!
 
 To start off,<br>
-The team members and their correspodnign roles are as follows:
+The team members and their corresponding roles are as follows:
 
 
 Alhassan Raad Jassim Al-badri ([@alhassanbilkent](https://github.com/alhassanbilkent))<br>
