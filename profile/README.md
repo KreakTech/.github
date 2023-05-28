@@ -24,9 +24,6 @@ University students face the common challenge of navigating various sources of i
 You can find our wiki [here](https://github.com/KreakTech/wiki/wiki), which includes personal logs and meeting logs.
 This will also include internal wikis & documentation in the future.
 
-### ERD DIAGRAM
-Coming Soon
-
 ### TECH STACK
 Backend - Spring Boot<br>
 Frontend - Codename One<br>
